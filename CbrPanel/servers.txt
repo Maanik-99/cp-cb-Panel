@@ -12,7 +12,7 @@ https://89.117.58.237:8090	admin	dX89Vzf2F0VZKxJh	invoiceforyou.shop
 https://84.46.250.51:8090	admin	0SVeWwrWJeFZePwP	invoicemixmail.shop
 https://194.180.176.169:8090	admin	QXBwyLYBnwOzGcmQ	recentupdate.shop
 https://185.215.167.109:8090	admin	JwVbh8bHb0lRKMFs	invoicehubmail.shop
-https://185.190.140.236:8090	admin	UlQNPdg3SNHNejm3	billingdeskmail.shop
+https://185.190.140.236:8090	admin	UQNPdg3SNHNejm3	billingdeskmail.shop
 https://185.218.125.171:8090	admin	TaFHCZTGK7r3QRJd	recentinfo.shop
 https://194.163.178.156:8090	admin	ZqKhY3x4gRjHxOiC	invoicefortoday.shop
 https://213.199.36.109:8090	admin	wNf0562zwThzl3Ik	invoicely.shop
