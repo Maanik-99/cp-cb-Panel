@@ -1,0 +1,3 @@
+IMAP_SERVER=mail.slipnoinvoice.shop
+IMAP_PORT=993
+IMAP_USE_SSL=True

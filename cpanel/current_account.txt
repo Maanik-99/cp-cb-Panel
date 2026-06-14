@@ -1,0 +1,5 @@
+{
+  "email": "nqijwrhx0y@slipnoinvoice.shop",
+  "password": "-!D#J5_eRm^x!G",
+  "server": "https://109.199.96.204:8090"
+}
