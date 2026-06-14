@@ -21,7 +21,7 @@ https://109.199.102.96:8090	admin	SYGkYoV9HG0kOUwY	pureinvoice.shop
 https://37.60.253.6:8090	admin	Rpa111DpPmolooeU	easyledgers.shop
 https://37.60.227.83:8090	admin	DmYiCr1JNirYs6Q6	dashbill.shop
 https://37.60.227.21:8090	admin	TilvVEzXmm3Pwd1V	optiinvoice.shop
-https://84.247.185.203:8090	admin	klnha8z5TK0YhzHz	billcraft.shop
+https://84.247.185.203:8090	admin	klnha8z5TK0Yhz	billcraft.shop
 https://158.220.109.51:8090	admin	YltOlreuvv0qYwk7	invoicedirect.shop
 https://158.220.108.140:8090	admin	5VnJ0ekCECUjPXJL	directbill.shop
 https://31.220.88.128:8090	admin	yYMhJEyaHlrqtw4E	clickbill.shop
